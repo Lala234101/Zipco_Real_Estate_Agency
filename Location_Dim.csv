@@ -1,0 +1,6 @@
+,location_id,formattedAddress,addressLine1,addressLine2,city,state,zipCode,county,latitude,longitude
+0,0,"13206 Tamayo Dr, Austin, TX 78729",13206 Tamayo Dr,,Austin,TX,78729,Williamson,30.450858,-97.757957
+1,1,"7905 San Felipe Blvd, Apt 219, Austin, TX 78729",7905 San Felipe Blvd,Apt 219,Austin,TX,78729,Williamson,30.437429,-97.768913
+2,2,"7905 San Felipe Blvd, Apt 263, Austin, TX 78729",7905 San Felipe Blvd,Apt 263,Austin,TX,78729,Williamson,30.437359,-97.76812
+3,3,"14815 Avery Ranch Blvd, Unit 2102, Austin, TX 78717",14815 Avery Ranch Blvd,Unit 2102,Austin,TX,78717,Williamson,30.496296,-97.77726
+4,4,"11426 Bristle Oak Trl, Austin, TX 78750",11426 Bristle Oak Trl,,Austin,TX,78750,Williamson,30.456269,-97.81805

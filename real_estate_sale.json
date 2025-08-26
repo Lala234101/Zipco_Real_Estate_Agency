@@ -1,0 +1,248 @@
+[
+    {
+        "id": "1719-Channel-Rd,-Austin,-TX-78746",
+        "formattedAddress": "1719 Channel Rd, Austin, TX 78746",
+        "addressLine1": "1719 Channel Rd",
+        "addressLine2": null,
+        "city": "Austin",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78746",
+        "county": "Travis",
+        "countyFips": "453",
+        "latitude": 30.342112,
+        "longitude": -97.791186,
+        "propertyType": "Land",
+        "lotSize": 38943,
+        "status": "Active",
+        "price": 5350000,
+        "listingType": "New Construction",
+        "listedDate": "2022-11-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-11-17T09:36:34.504Z",
+        "lastSeenDate": "2025-08-22T13:13:04.862Z",
+        "daysOnMarket": 1011,
+        "mlsName": "UnlockMLS",
+        "mlsNumber": "6783603",
+        "listingAgent": {
+            "name": "Eric Moreland",
+            "phone": "5124800848",
+            "email": "eric@moreland.com",
+            "website": "http://www.ericmoreland.com"
+        },
+        "listingOffice": {
+            "name": "MORELAND PROPERTIES",
+            "phone": "5124800848",
+            "email": "sales@moreland.com",
+            "website": "www.moreland.com"
+        },
+        "history": {
+            "2022-11-16": {
+                "event": "Sale Listing",
+                "price": 5350000,
+                "listingType": "New Construction",
+                "listedDate": "2022-11-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1011
+            }
+        }
+    },
+    {
+        "id": "7207-Mountain-Trl,-Lots-49-&-50,-Austin,-TX-78732",
+        "formattedAddress": "7207 Mountain Trl, Lots 49 & 50, Austin, TX 78732",
+        "addressLine1": "7207 Mountain Trl",
+        "addressLine2": "Lots 49 & 50",
+        "city": "Austin",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78732",
+        "county": "Travis",
+        "countyFips": "453",
+        "latitude": 30.420313,
+        "longitude": -97.884033,
+        "propertyType": "Land",
+        "bedrooms": 0,
+        "lotSize": 82764,
+        "status": "Active",
+        "price": 2499999,
+        "listingType": "Standard",
+        "listedDate": "2021-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-04-18T14:50:42.846Z",
+        "lastSeenDate": "2025-08-22T13:13:04.860Z",
+        "daysOnMarket": 1626,
+        "mlsName": "UnlockMLS",
+        "mlsNumber": "4986621",
+        "listingAgent": {
+            "name": "Tom Slowbe",
+            "phone": "5127937801",
+            "email": "thomas@sphere-realty.com"
+        },
+        "listingOffice": {
+            "name": "Sphere Realty, LLC",
+            "phone": "5127468338",
+            "email": "thomas@sphere-realty.com",
+            "website": "http://www.sphere-realty.com"
+        },
+        "history": {
+            "2021-03-11": {
+                "event": "Sale Listing",
+                "price": 2499999,
+                "listingType": "Standard",
+                "listedDate": "2021-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1626
+            }
+        }
+    },
+    {
+        "id": "1006-Lott-Ave,-Austin,-TX-78721",
+        "formattedAddress": "1006 Lott Ave, Austin, TX 78721",
+        "addressLine1": "1006 Lott Ave",
+        "addressLine2": null,
+        "city": "Austin",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78721",
+        "county": "Travis",
+        "countyFips": "453",
+        "latitude": 30.268144,
+        "longitude": -97.683811,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1024,
+        "lotSize": 15342,
+        "yearBuilt": 1961,
+        "status": "Active",
+        "price": 390000,
+        "listingType": "Standard",
+        "listedDate": "2021-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-20T17:22:50.250Z",
+        "lastSeenDate": "2025-08-22T13:13:04.859Z",
+        "daysOnMarket": 1434,
+        "mlsName": "UnlockMLS",
+        "mlsNumber": "2054680",
+        "listingAgent": {
+            "name": "Jim Bailey",
+            "phone": "5128346056",
+            "email": "jimrbailey@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "Lone Star Realty",
+            "phone": "8328776946",
+            "email": "lonestarrealty1@yahoo.com"
+        },
+        "history": {
+            "2021-09-19": {
+                "event": "Sale Listing",
+                "price": 390000,
+                "listingType": "Standard",
+                "listedDate": "2021-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1434
+            }
+        }
+    },
+    {
+        "id": "8701-Highway,-290-W,-Austin,-TX-78736",
+        "formattedAddress": "8701 Highway, 290 W, Austin, TX 78736",
+        "addressLine1": "8701 Highway",
+        "addressLine2": "290 W",
+        "city": "Austin",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78736",
+        "county": "Travis",
+        "countyFips": "453",
+        "latitude": 30.233242,
+        "longitude": -97.913751,
+        "propertyType": "Land",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "squareFootage": 2373,
+        "lotSize": 195018,
+        "yearBuilt": 1973,
+        "status": "Active",
+        "price": 4500000,
+        "listingType": "Standard",
+        "listedDate": "2021-10-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-10-06T15:16:18.390Z",
+        "lastSeenDate": "2025-08-22T13:13:04.858Z",
+        "daysOnMarket": 1422,
+        "mlsName": "UnlockMLS",
+        "mlsNumber": "1112881",
+        "listingAgent": {
+            "name": "Eddie Karam",
+            "phone": "9156305255"
+        },
+        "listingOffice": {
+            "name": "Compass RE Texas",
+            "phone": "5122411300",
+            "email": "realtor@realtyaustin.com",
+            "website": "http://realtyaustin.com"
+        },
+        "history": {
+            "2021-10-01": {
+                "event": "Sale Listing",
+                "price": 4500000,
+                "listingType": "Standard",
+                "listedDate": "2021-10-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1422
+            }
+        }
+    },
+    {
+        "id": "4901-Lambs-Ln,-Austin,-TX-78744",
+        "formattedAddress": "4901 Lambs Ln, Austin, TX 78744",
+        "addressLine1": "4901 Lambs Ln",
+        "addressLine2": null,
+        "city": "Austin",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78744",
+        "county": "Travis",
+        "countyFips": "453",
+        "latitude": 30.178172,
+        "longitude": -97.752184,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1234,
+        "lotSize": 10934,
+        "yearBuilt": 1983,
+        "status": "Active",
+        "price": 375000,
+        "listingType": "Standard",
+        "listedDate": "2022-10-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-10-16T08:45:43.391Z",
+        "lastSeenDate": "2025-08-22T13:13:04.857Z",
+        "daysOnMarket": 1042,
+        "mlsName": "UnlockMLS",
+        "mlsNumber": "7768829",
+        "listingAgent": {
+            "name": "Neil Ally",
+            "phone": "5127910958",
+            "email": "mally0824@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "Water Lily Realty",
+            "phone": "5122996402",
+            "email": "mally.pi@att.net"
+        },
+        "history": {
+            "2022-10-16": {
+                "event": "Sale Listing",
+                "price": 375000,
+                "listingType": "Standard",
+                "listedDate": "2022-10-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1042
+            }
+        }
+    }
+]
